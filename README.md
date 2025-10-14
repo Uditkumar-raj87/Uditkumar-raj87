@@ -66,4 +66,4 @@ Welcome to my GitHub! I'm Udit Kumar Raj, passionate about web development, data
 
 ---
 
-> *Feel free to connect with me on [LinkedIn](https://linkedin.com/in/udit-kumar-raj8789) or check out my [portfolio](https://github.com/Uditkumar-raj87)!*
+> *Feel free to connect with me on [LinkedIn](https://linkedin.com/in/udit-kumar-raj) or check out my [portfolio](https://github.com/Uditkumar-raj87)!*
