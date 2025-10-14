@@ -52,9 +52,9 @@ Welcome to my GitHub! I'm Udit Kumar Raj, passionate about web development, data
 
 ## 🎓 Education
 
-- **Lovely Professional University** *(Aug 2023–May 2026, Punjab, India)*  
-  *B.Tech. in Computer Science and Engineering; CGPA: 7.51*                  
-  *Diploma in Computer Science and Engineering; CGPA: 7.8* *(Aug 2020–May 2023)*
+- **Lovely Professional University** *(Punjab, India)*  
+  *B.Tech. in Computer Science and Engineering; *(Aug 2023–May 2026)*
+  *Diploma in Computer Science and Engineering; *(Aug 2020–May 2023)*
 
 ---
 
