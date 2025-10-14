@@ -51,24 +51,6 @@ Welcome to my GitHub! I'm Udit Kumar Raj, passionate about web development, data
 
 ---
 
-## 💼 Internship
-
-**Frontend Development Intern – CodeAlpha** *(Oct 2025)*  
-- Focused on frontend development, responsive web interfaces, automation, and version control.
-- Exposure to modern dev workflows, team collaboration, and industry standards (ISO, SOC2).
-- Enhanced skills in **HTML, CSS, JavaScript** and code optimization.
-
----
-
-## 📂 Projects
-
-### [Weather Check Interface](https://uditkumar-rai87.github.io/Weather-App/) *(Sept 2025)*
-- Dynamic weather app for real-time conditions of any location.
-- Responsive UI with **HTML, CSS, JavaScript**
-- Integrated weather API for accurate meteorological data.
-
----
-
 ## 🎓 Education
 
 - **Lovely Professional University** *(Aug 2023–May 2026, Punjab, India)*  
