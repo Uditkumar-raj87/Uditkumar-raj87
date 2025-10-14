@@ -54,18 +54,8 @@ Welcome to my GitHub! I'm Udit Kumar Raj, passionate about web development, data
 ## 🎓 Education
 
 - **Lovely Professional University** *(Aug 2023–May 2026, Punjab, India)*  
-  *B.Tech. in Computer Science and Engineering; CGPA: 7.51*  
+  *B.Tech. in Computer Science and Engineering; CGPA: 7.51*                  
   *Diploma in Computer Science and Engineering; CGPA: 7.8* *(Aug 2020–May 2023)*
-
-- **S.S(+2) High School** *(2016, Bihar, India)*  
-  *Matriculation; CGPA: 6.9*
-
----
-
-## 📜 Certificates
-
-- Programming in C++: A Hands-on Introduction Specialization – Coursera *(Jan 2024)*
-- Generative AI for Everyone – Coursera *(Jan 2024)*
 
 ---
 
