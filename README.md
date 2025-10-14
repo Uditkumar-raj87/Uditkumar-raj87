@@ -14,7 +14,7 @@
 
 # 👋 Hi, I'm Udit Kumar Raj
 
-> Computer Science & Engineering student | Frontend Developer | Data Enthusiast  
+> Computer Science & Engineering student | Frontend Developer | Data Scientists | Data Analyst
 > 📍 Punjab, India | 📞 +91-8789796424
 
 ---
@@ -30,7 +30,6 @@ Welcome to my GitHub! I'm Udit Kumar Raj, passionate about web development, data
 - **Languages:** C++, SQL, Java, Python, HTML, CSS, JavaScript, Scala  
 - **Frameworks:** MySQL, WordPress, Apache Hadoop, HBase, Hive, Pig, Spark  
 - **Tools/Platforms:** Figma, VS Code, R Studio, Git, GitHub  
-- **Soft Skills:** Problem-Solving, Algorithmic Thinking, Collaboration, Adaptability, Effective Communication
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" title="C++"/>
