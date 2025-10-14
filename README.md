@@ -1,1 +1,98 @@
-# My-Portfolio
+<!-- Profile Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Udit%20Kumar%20Raj%20Portfolio&fontSize=40&animation=fadeIn" alt="Banner" />
+</p>
+
+<!-- Contact & Social Links -->
+<p align="center">
+  <a href="mailto:uditkumar.uk0155@gmail.com"><img src="https://img.shields.io/badge/Gmail-Email-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/udit-kumar-raj8789"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/Uditkumar-raj87"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+
+---
+
+# 👋 Hi, I'm Udit Kumar Raj
+
+> Computer Science & Engineering student | Frontend Developer | Data Enthusiast  
+> 📍 Punjab, India | 📞 +91-8789796424
+
+---
+
+## 🖼️ About Me
+
+Welcome to my GitHub! I'm Udit Kumar Raj, passionate about web development, data visualization, and learning new tech. Over the years, I’ve worked with multiple programming languages and frameworks, and love building real-world projects.
+
+---
+
+## 🛠️ Skills
+
+- **Languages:** C++, SQL, Java, Python, HTML, CSS, JavaScript, Scala  
+- **Frameworks:** MySQL, WordPress, Apache Hadoop, HBase, Hive, Pig, Spark  
+- **Tools/Platforms:** Figma, VS Code, R Studio, Git, GitHub  
+- **Soft Skills:** Problem-Solving, Algorithmic Thinking, Collaboration, Adaptability, Effective Communication
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" title="C++"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" title="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" title="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" title="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg" width="40" title="Scala"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" title="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" width="40" title="WordPress"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" title="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" title="Figma"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" title="VS Code"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" width="40" title="RStudio"/>
+</p>
+
+---
+
+## 💼 Internship
+
+**Frontend Development Intern – CodeAlpha** *(Oct 2025)*  
+- Focused on frontend development, responsive web interfaces, automation, and version control.
+- Exposure to modern dev workflows, team collaboration, and industry standards (ISO, SOC2).
+- Enhanced skills in **HTML, CSS, JavaScript** and code optimization.
+
+---
+
+## 📂 Projects
+
+### [Weather Check Interface](https://uditkumar-rai87.github.io/Weather-App/) *(Sept 2025)*
+- Dynamic weather app for real-time conditions of any location.
+- Responsive UI with **HTML, CSS, JavaScript**
+- Integrated weather API for accurate meteorological data.
+
+---
+
+## 🎓 Education
+
+- **Lovely Professional University** *(Aug 2023–May 2026, Punjab, India)*  
+  *B.Tech. in Computer Science and Engineering; CGPA: 7.51*  
+  *Diploma in Computer Science and Engineering; CGPA: 7.8* *(Aug 2020–May 2023)*
+
+- **S.S(+2) High School** *(2016, Bihar, India)*  
+  *Matriculation; CGPA: 6.9*
+
+---
+
+## 📜 Certificates
+
+- Programming in C++: A Hands-on Introduction Specialization – Coursera *(Jan 2024)*
+- Generative AI for Everyone – Coursera *(Jan 2024)*
+
+---
+
+## 🏆 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Uditkumar-raj87&show_icons=true&theme=github_dark" />
+</p>
+
+---
+
+> *Feel free to connect with me on [LinkedIn](https://linkedin.com/in/udit-kumar-raj8789) or check out my [portfolio](https://github.com/Uditkumar-raj87)!*
