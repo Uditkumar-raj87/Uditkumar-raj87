@@ -14,7 +14,7 @@
 
 # 👋 Hi, I'm Udit Kumar Raj
 
-> Computer Science & Engineering student | Frontend Developer | Data Scientists | Data Analyst
+> Computer Science & Engineering student | Frontend Developer | Data Scientist | Data Analyst  
 > 📍 Punjab, India | 📞 +91-8789796424
 
 ---
@@ -25,11 +25,16 @@ Welcome to my GitHub! I'm Udit Kumar Raj, passionate about web development, data
 
 ---
 
-## 🛠️ Skills
+## 🛠️ Skills & Tools
 
-- **Languages:** C++, SQL, Java, Python, HTML, CSS, JavaScript, Scala  
-- **Frameworks:** MySQL, WordPress, Apache Hadoop, HBase, Hive, Pig, Spark  
-- **Tools/Platforms:** Figma, VS Code, R Studio, Git, GitHub  
+### Languages
+- C++, SQL, Java, Python, HTML, CSS, JavaScript, Scala
+
+### Frameworks / Tech
+- MySQL, WordPress, Apache Hadoop, HBase, Hive, Pig, Spark, Kafka
+
+### Tools / Platforms
+- Git, GitHub, VS Code, Figma, RStudio, Tableau
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" title="C++"/>
@@ -53,15 +58,23 @@ Welcome to my GitHub! I'm Udit Kumar Raj, passionate about web development, data
 ## 🎓 Education
 
 - **Lovely Professional University** *(Punjab, India)*  
-  *B.Tech. in Computer Science and Engineering; *(Aug 2023–May 2026)*
-  *Diploma in Computer Science and Engineering; *(Aug 2020–May 2023)*
+  *B.Tech. in Computer Science and Engineering (Aug 2023–May 2026)*  
+  *Diploma in Computer Science and Engineering (Aug 2020–May 2023)*
 
 ---
 
-## 🏆 GitHub Stats
+## 🏆 GitHub Stats (auto-updating)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Uditkumar-raj87&show_icons=true&theme=github_dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Uditkumar-raj87&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Uditkumar-raj87&theme=github-dark-blue" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Uditkumar-raj87&layout=compact&theme=github_dark" alt="Top Languages" />
 </p>
 
 ---
