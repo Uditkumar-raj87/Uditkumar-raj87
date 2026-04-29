@@ -21,20 +21,26 @@
 
 ## 🖼️ About Me
 
-Welcome to my GitHub! I'm Udit Kumar Raj, passionate about web development, data visualization, and learning new tech. Over the years, I’ve worked with multiple programming languages and frameworks, and love building real-world projects.
+Welcome to my GitHub! I'm Udit Kumar Raj, passionate about web development, data visualization, and learning new tech. Over the years, I’ve worked with multiple programming languages and frameworks through internships, projects, and certifications.
 
 ---
 
 ## 🛠️ Skills & Tools
 
 ### Languages
-- C++, SQL, Java, Python, HTML, CSS, JavaScript, Scala
+- C++, SQL, Java, Python, HTML, CSS, JavaScript (ES6+), Scala
 
-### Frameworks / Tech
-- MySQL, WordPress, Apache Hadoop, HBase, Hive, Pig, Spark, Kafka
+### Frameworks / Libraries / Tech
+- Frontend: React, Angular
+- Data Science / ML: scikit-learn, NumPy, Pandas, Matplotlib, Seaborn
+- Data / Big Data: MySQL, Hadoop (HDFS), Hive, HBase, Pig, Spark, Kafka
+- Visualization / BI: Tableau
 
 ### Tools / Platforms
-- Git, GitHub, VS Code, Figma, RStudio, Tableau
+- Git, GitHub, VS Code, Figma, RStudio
+
+### Practices
+- OOP, DSA, DBMS, API Integration (REST), Code Reviews, Debugging, CI/CD, Agile
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" title="C++"/>
@@ -45,7 +51,6 @@ Welcome to my GitHub! I'm Udit Kumar Raj, passionate about web development, data
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg" width="40" title="Scala"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" title="MySQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" width="40" title="WordPress"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" title="GitHub"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" title="Figma"/>
