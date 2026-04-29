@@ -71,7 +71,7 @@ Welcome to my GitHub! I'm Udit Kumar Raj, passionate about web development, data
 ## 🏆 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Uditkumar-raj87&show_icons=true&theme=github_dark&hide_title=true&include_all_commits=true&count_private=true&cache_seconds=21600" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Uditkumar-raj87&show_icons=true&theme=github_dark&hide_title=true&cache_seconds=21600" alt="GitHub Stats" />
 </p>
 
 <p align="center">
