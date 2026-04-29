@@ -71,15 +71,17 @@ Welcome to my GitHub! I'm Udit Kumar Raj, passionate about web development, data
 ## 🏆 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Uditkumar-raj87&show_icons=true&theme=github_dark&hide_title=true&cache_seconds=21600" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Uditkumar-raj87&theme=github_dark" alt="GitHub Profile Summary" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Uditkumar-raj87&theme=github-dark-blue" alt="GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Uditkumar-raj87&theme=github_dark" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Uditkumar-raj87&theme=github_dark&utcOffset=5.5" alt="Productive Time" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Uditkumar-raj87&layout=compact&theme=github_dark&cache_seconds=21600" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Uditkumar-raj87&theme=github_dark" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Uditkumar-raj87&theme=github_dark" alt="Most Commit Language" />
 </p>
 
 ---
