@@ -21,7 +21,7 @@
 
 ## 🖼️ About Me
 
-Welcome to my GitHub! I'm Udit Kumar Raj, passionate about web development, data visualization, and learning new tech. Over the years, I’ve worked with multiple programming languages and frameworks through internships, projects, and certifications.
+Welcome to my GitHub! I'm Udit Kumar Raj, passionate about web development, data visualization, and learning new tech. Over the years, I’ve worked with multiple programming languages and frameworks, and love building real-world projects.
 
 ---
 
@@ -68,10 +68,10 @@ Welcome to my GitHub! I'm Udit Kumar Raj, passionate about web development, data
 
 ---
 
-## 🏆 GitHub Stats (auto-updating)
+## 🏆 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Uditkumar-raj87&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Uditkumar-raj87&show_icons=true&theme=github_dark&hide_title=true&include_all_commits=true&count_private=true&cache_seconds=21600" alt="GitHub Stats" />
 </p>
 
 <p align="center">
@@ -79,7 +79,7 @@ Welcome to my GitHub! I'm Udit Kumar Raj, passionate about web development, data
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Uditkumar-raj87&layout=compact&theme=github_dark" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Uditkumar-raj87&layout=compact&theme=github_dark&cache_seconds=21600" alt="Top Languages" />
 </p>
 
 ---
